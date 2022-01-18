@@ -1,4 +1,9 @@
-
+/* ---------------------------------------------------------- */
+/* ---------------------------------------------------------- */
+/* ------------------------ КОД УЧЕБНЫЙ ------------------------ */
+/* ------------------------ МНОГО МУСОРА, НУЖН ПЕРЕДЕЛЫВАТЬ ------------------------ */
+/* ---------------------------------------------------------- */
+/* ---------------------------------------------------------- */
 /*
 позиционирование
 блочная модель (размеры, отступы)
@@ -44,9 +49,10 @@ body {
     min-height: 100vh;
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 
     background: var(--linear-gradient-to-top-right-blue-light-yellow-light);
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
 
     color: var(--color-black-light);
 }
@@ -64,7 +70,7 @@ body {
     display: flex;
     justify-content: space-between;
 
-    max-width: 1440px;
+    /* width: 1440px; */
     margin: 0 auto;
     width: 1128px;
 
@@ -172,6 +178,7 @@ nav .link:hover {
 
 .main {
     /* border: 1px solid rgb(0, 255, 21); */
+    /* width: ; */
     padding: 38px 0px 110px 0px;
 }
 
@@ -296,7 +303,7 @@ footer .container {
 }
 
 #behance-logo {
-    height: 24px;
+    height: 20px;
 }
 
 
@@ -441,7 +448,7 @@ mark {
     display: none;
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 1240px) {
     .alarm {
         display: flex;
         align-items: center;
