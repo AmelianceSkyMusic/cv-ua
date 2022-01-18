@@ -9,62 +9,62 @@
 					"label": "!--HEADER"
 				},
 				{
-					"line": 27,
+					"line": 26,
 					"column": 16,
 					"label": "Navigator"
 				},
 				{
-					"line": 51,
+					"line": 54,
 					"column": 11,
 					"label": "!--MAIN"
 				},
 				{
-					"line": 60,
+					"line": 63,
 					"column": 11,
 					"label": "!Contsiner Left"
 				},
 				{
-					"line": 64,
+					"line": 67,
 					"column": 24,
 					"label": "Candidate"
 				},
 				{
-					"line": 132,
+					"line": 135,
 					"column": 64,
 					"label": "Education"
 				},
 				{
-					"line": 152,
+					"line": 155,
 					"column": 79,
 					"label": "Projects"
 				},
 				{
-					"line": 174,
+					"line": 177,
 					"column": 12,
 					"label": "!Container right"
 				},
 				{
-					"line": 178,
+					"line": 181,
 					"column": 67,
 					"label": "Contacts"
 				},
 				{
-					"line": 221,
+					"line": 224,
 					"column": 86,
 					"label": "Soft skills"
 				},
 				{
-					"line": 239,
+					"line": 242,
 					"column": 84,
 					"label": "Hard skills"
 				},
 				{
-					"line": 278,
+					"line": 281,
 					"column": 84,
 					"label": "Languages"
 				},
 				{
-					"line": 313,
+					"line": 316,
 					"column": 27,
 					"label": "!-- FOOTER"
 				}
