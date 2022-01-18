@@ -1,0 +1,39 @@
+{
+	"files": [
+		{
+			"path": "index.html",
+			"bookmarks": [
+				{
+					"line": 22,
+					"column": 16,
+					"label": "!--HEADER"
+				},
+				{
+					"line": 27,
+					"column": 16,
+					"label": "Navigator"
+				},
+				{
+					"line": 51,
+					"column": 11,
+					"label": "!--MAIN"
+				},
+				{
+					"line": 60,
+					"column": 11,
+					"label": "!Contsiner Left"
+				},
+				{
+					"line": 64,
+					"column": 24,
+					"label": "Candidate"
+				},
+				{
+					"line": 267,
+					"column": 33,
+					"label": "Languages"
+				}
+			]
+		}
+	]
+}
