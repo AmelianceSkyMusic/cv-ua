@@ -7,9 +7,9 @@
 анимация
 */
 
-.{
-    background-color: #sdfsdf;
-}
+/* .{ */
+    /* background-color: #sdfsdf; */
+/* } */
 
 :root {
     --color-black-light: #1E1E1E;
@@ -287,11 +287,11 @@ footer .container {
     padding: 0;
 } */
 
-#github-logo {
-    height: 24px;
+#dribbble-logo {
+    height: 36px;
 }
 
-#rs_school_js-logo {
+#behance-logo {
     height: 36px;
 }
 

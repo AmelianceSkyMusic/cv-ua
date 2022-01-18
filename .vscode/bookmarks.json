@@ -29,9 +29,44 @@
 					"label": "Candidate"
 				},
 				{
-					"line": 267,
-					"column": 33,
+					"line": 132,
+					"column": 64,
+					"label": "Education"
+				},
+				{
+					"line": 152,
+					"column": 79,
+					"label": "Projects"
+				},
+				{
+					"line": 174,
+					"column": 12,
+					"label": "!Container right"
+				},
+				{
+					"line": 178,
+					"column": 67,
+					"label": "Contacts"
+				},
+				{
+					"line": 221,
+					"column": 86,
+					"label": "Soft skills"
+				},
+				{
+					"line": 239,
+					"column": 84,
+					"label": "Hard skills"
+				},
+				{
+					"line": 278,
+					"column": 84,
 					"label": "Languages"
+				},
+				{
+					"line": 313,
+					"column": 27,
+					"label": "!-- FOOTER"
 				}
 			]
 		}
